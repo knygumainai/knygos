@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Knygų mainai
+                    Knygų mainai!
                 </div>
 
                 <div class="links">
